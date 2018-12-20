@@ -11,4 +11,6 @@ Before adding third banch
 
 This code in third branch
 
+Lets have some other lines to add code for  new lines in master branch which redirets into new third branch
+
 
